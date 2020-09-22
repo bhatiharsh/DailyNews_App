@@ -4,6 +4,8 @@ The Daily News App give the daily news updates and it is also give the news acco
 
 # NEWS API
 
+Link:- https://newsapi.org/
+
 # GIF of App
 
 # Screenshots of App
