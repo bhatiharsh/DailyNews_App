@@ -10,3 +10,6 @@ Link:- https://newsapi.org/
 
 # Screenshots of App
 
+
+![Screenshot_2020-09-22-16-09-05-61_c78aca01088384b6c03c9be68c7c5628](https://user-images.githubusercontent.com/52590889/93873865-13a2ac00-fcf0-11ea-9f4f-ed45b859cad5.png)
+
